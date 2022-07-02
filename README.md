@@ -1,5 +1,4 @@
 
-![REACT JS PORTFOLIO](https://user-images.githubusercontent.com/65420004/157770783-3b3eb26c-9542-4a6e-bc45-5689589e85e8.png)
 
 ## Available Scripts
 
@@ -50,9 +49,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
